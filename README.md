@@ -1,3 +1,3 @@
 # docker-sybase
 
-ASE Sybase Docker image based on [https://hub.docker.com/r/datagrip/sybase](https://hub.docker.com/r/datagrip/sybase) and [https://hub.docker.com/r/guoianphu/docker-sybase](https://hub.docker.com/r/guoianphu/docker-sybase), with fixes
+ASE Sybase Docker image based on [datagrip/sybase](https://hub.docker.com/r/datagrip/sybase) and [nguoianphu/docker-sybase](https://hub.docker.com/r/nguoianphu/docker-sybase), with fixes
